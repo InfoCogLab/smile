@@ -36,8 +36,7 @@
     <p>
       If there is anything about the study or your participation that is unclear or that you do not understand, if you
       have questions or wish to report a research-related problem, you may contact the principal investigator,
-      <a href="http://todd.gureckislab.org">Todd M. Gureckis</a> at 6 Washington Place (409), New York, NY, 10003, (212)
-      998-3794, <a href="mailto:todd.gureckis@nyu.edu">todd.gureckis@nyu.edu</a>. For questions about your rights as a
+      <a href="http://www.nogsky.com">Noga Zaslavsky</a> at 6 Washington Place (587), New York, NY, 10003, <a href="mailto:nogaz@nyu.edu">nogaz@nyu.edu</a>. For questions about your rights as a
       research participant, you may contact the University Committee on Activities Involving Human Subjects, New York
       University, 665 Broadway, Suite 804, New York, NY 10012, at ask.humansubjects@nyu.edu or (212) 998-4808.
     </p>
